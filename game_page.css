@@ -1,0 +1,153 @@
+/* THIS IS THE SECOND PAGE CSS */
+
+#main_header2 {
+background-image: url('http://wallsfield.com/wp-content/uploads/2014/09/burning-poker-joker.jpg');
+  background-size: cover;
+  height: 500px;
+}
+
+#main_heading2 {
+  text-align: center;
+  color: red;
+  font-size: 80px;
+  position: absolute;
+  margin-top: 320px;
+  margin-left: 110px;
+}
+
+#links2 {
+  background-image: url('http://bgfons.com/upload/rainbow_texture679.jpg');
+  background-size: 1450px 900px;
+  background-position: 0% 85%;
+  text-align: center;
+  height: 110px;
+  color: white;
+  border-top-color: white;
+  border-bottom-color: white;
+}
+
+#link2history-rules {
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-content: center;
+  font-size: 30px;
+  position: absolute;
+  margin-top: 30px;
+  margin-left: -175px;
+  border: white double;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+#name_form {
+  background-image: url('http://3.bp.blogspot.com/-t0zs1DiotSM/UABzbdlmr-I/AAAAAAAAFhM/Y6ZBbsodG2M/s1600/No-rain_Wallpaper_l1u2x.jpg;');
+  background-size: 1280px 1000px;
+  background-position: 0% 70%;
+  background-attachment: fixed;
+  text-align: center;
+  display: block;
+  color: white;
+  height: 400px;
+}
+
+#input_header {
+  margin-top: 50px;
+  font-size: 40px;
+}
+
+#input_field {
+  color: white;
+  font-size: 30px;
+  margin-bottom: 30px;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+#input_field_in_form {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  background: transparent;
+  border-color: white double;
+}
+
+#male-female-radio {
+  font-size: 30px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+#the_button_div {
+  margin-top: 30px;
+  text-align: center;
+}
+
+#lets_play_button {
+  color: white;
+  font-size: 30px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: white double;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+/* ------------THIS IS THE CONTINUATION OF THE SECOND PAGE CSS------------ */
+
+#reset_button_div {
+  background-image: url('http://bgfons.com/upload/rainbow_texture679.jpg');
+  background-size: 1280px 900px;
+  background-position: 0% 85%;
+  text-align: center;
+  height: 110px;
+  color: white;
+  border-top-color: white;
+  border-bottom-color: white;
+}
+
+#reset_button {
+  color: white;
+  font-size: 30px;
+  position: absolute;
+  margin-top: 30px;
+  margin-left: -55px;
+  border: white double;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+#hand_reference {
+  background-image: url('http://3.bp.blogspot.com/-t0zs1DiotSM/UABzbdlmr-I/AAAAAAAAFhM/Y6ZBbsodG2M/s1600/No-rain_Wallpaper_l1u2x.jpg;');
+  background-position: 0% 70%;
+  text-align: center;
+  background-size: 1280px 1000px;
+  background-attachment: fixed;
+  position: static;
+}
+
+#hand_reference_heading {
+  color: white;
+}
+
+#reference_picture {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+#contact2 {
+  background-image: url('http://webneel.com/wallpaper/sites/default/files/images/04-2013/creative-rain_0.jpg');
+  background-size: 1280px 800px;
+  background-position: 0% 40%;
+  height: 300px;
+  text-align: center;
+}
+
+#contactus2 {
+  text-align: center;
+  color: white;
+}
+
+#contact_paragraph2 {
+  color: white;
+  text-align: center;
+  font-size: 22px;
+  padding-top: 50px;
+  padding-left: 30px;
+  padding-right: 30px;
+}

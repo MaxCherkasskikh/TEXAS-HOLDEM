@@ -1,0 +1,227 @@
+<ed90-v3456 <dfn> </dfn><!--THIS IS THE SECOND PAGE HTML-->
+
+<html lang="en">
+
+<head>
+   <meta charset="UTF-8">
+   <title>THE GAME</title>
+
+   <link rel="stylesheet" type="text/css" href="css/cardstarter.css">
+   <link rel="stylesheet" type="text/css" href="css/style.css">
+   <link rel="stylesheet" type="text/css" href="css/game_page.css">
+   <link rel="stylesheet" type="text/css" href="css/game_table.css">
+
+</head>
+
+<body style='margin: 0px;'>
+
+  <div id='main_header2'>
+
+    <h1 id='main_heading2'>LET'S PLAY...</h1>
+
+  </div>
+
+  <div id='links2'>
+
+    <button id='link2history-rules'><a href='index.html' style='color: white; text-decoration: none;'>TO HISTORY AND RULES</a></button>
+
+  </div>
+
+  <div id='game_play_block'>
+
+    <div id='name_form'>
+
+      <h2 id='input_header'>WHAT'S YOUR NAME?</h2>
+
+      <input class='input_field' id='input_field_in_form' type='text' placeholder='Type Your Name Here' style='font-size: 30px'>
+
+      <div id='male-female-radio'>
+
+        <input type="Radio" Name="Gender" Value="Male">Male
+
+        <input type="Radio" Name="Gender" Value="Female">Female
+
+      </div>
+
+      <div id='the_button_div'>
+
+        <button id='lets_play_button'>LET'S PLAY!</button>
+
+      </div>
+
+    </div>
+
+    <!--THIS IS THE GAME TABLE DIV-->
+
+    <div id='game_table'>
+
+      <div id="letsPlay"></div>
+
+      <div id='heading-game_block'>
+
+        <h2 id='game_table_heading'>THE GAME TABLE</h2>
+
+      </div>
+
+    <!--THIS IS THE ANDREW DIV-->
+
+      <div class="player" id="andrew" name="Andrew">
+
+        <img class="avatar" src="https://i1.sndcdn.com/avatars-000208656416-ll5r1f-t500x500.jpg">
+
+        <h3>Andrew</h3>
+
+        <em class="points" id='andrewspoints'>0</em>
+
+        <div class="hand">
+
+          <div class="card back"></div>
+
+          <div class="card back"></div>
+
+        </div>
+
+      </div>
+
+    <!--THIS IS THE DANIEL DIV-->
+
+      <div class="player vertical-player" id="daniel" name="Daniel" style='margin-right: 60px;'>
+
+        <img class="avatar" src="https://i1.sndcdn.com/avatars-000136957836-cbe1b8-t500x500.jpg">
+
+        <h3>Daniel</h3>
+
+        <em class="points" id='danielspoints'>0</em>
+
+        <div class="hand">
+
+          <div class="card back"></div>
+
+          <div class="card back"></div>
+
+        </div>
+
+      </div>
+
+    <!--THIS IS THE DEALER DIV-->
+
+      <div class="player vertical-player dealer" id="dealer">
+
+        <div class="pot" id="pot">
+
+          <h3>Pot</h3>
+
+          <em class="points total-points">0</em>
+
+        </div>
+
+        <div class="card deck back" id="deck"></div>
+
+        <div class="card back" id="burn">BURN</div>
+
+        <div class="card outline" id="upcard1"></div>
+
+        <div class="card outline" id="upcard2"></div>
+
+        <div class="card outline" id="upcard3"></div>
+
+        <div class="card outline" id="turn"></div>
+
+        <div class="card outline" id="river"></div>
+
+      </div>
+
+    <!--THIS IS THE TONY DIV-->
+
+      <div class="player vertical-player" id="tony" name="Tony" style='margin-left: 60px;'>
+
+        <img class="avatar" src="https://i1.sndcdn.com/avatars-000144632819-tnrp39-t500x500.jpg">
+
+        <h3>Tony</h3>
+
+        <em class="points" id='tonyspoints'>0</em>
+
+        <div class="hand">
+
+          <div class="card back"></div>
+
+          <div class="card back"></div>
+
+        </div>
+
+      </div>
+
+    <!--THIS IS THE PLAYER DIV-->
+
+      <div class="player" id="player" name="">
+
+        <img class="avatar" src="http://jessieonajourney.com/wp-content/uploads/2013/04/model.jpg" style="background-size: 13px 8px;">
+
+        <h3>Player</h3>
+
+        <em class="points" id='playerspoints'>0</em>
+
+        <div class="hand">
+
+          <div class="card back"></div>
+
+          <div class="card back"></div>
+
+        </div>
+
+        <div class="actions">
+
+          <button class="bet_button" id='check_button'>CHECK</button>
+
+          <button class="bet_button" id='call_button'>CALL</button>
+
+          <button class="bet_button" id='raise_button'>RAISE</button>
+
+          <input id='input_field' type="number" value="0">
+          <br>
+          <br>
+          <button class="bet_button" id='fold_button'>FOLD</button>
+
+        </div>
+
+      </div>
+
+    </div>
+
+    <div id='hand_reference'>
+
+      <h2 id='hand_reference_heading'>HAND REFERENCE</h2>
+
+      <div id='reference_picture'>
+
+        <img src='file:///Users/maxcherkasskikh/Library/Containers/com.apple.mail/Data/Library/Mail%20Downloads/EFA95A1F-BBD6-4584-9D34-D6B58AD1FC0E/IMG_2427.PNG' alt='Hand Reference'>
+
+      </div>
+
+    </div>
+
+  </div>
+
+  <div id='reset_button_div'>
+
+    <button id='reset_button'>RESET</button>
+
+  </div>
+
+  <div id='contact2'>
+
+    <h2 id='contactus2'>CONTACT US</h2>
+
+    <p id='contact_paragraph2'>
+    This website and game were created as a result of a school project. Keep in mind that the timeline for completing it was short (about a week) with the creator having no prior experience in web design. If you feel that something is missing do not hesitate to contact the creator either by <a href="mailto:maxcherkasskikh@gmail.com?Subject=Hello!" target="_top" style='text-decoration: none;'>email</a> or through a message on <a href="https://www.facebook.com/profile.php?id=100009263375952" style='text-decoration: none;'>Facebook</a>. Feedback is welcome and encouraged.
+    </p>
+
+  </div>
+
+  <script   src="https://code.jquery.com/jquery-1.12.2.js"   integrity="sha256-VUCyr0ZXB5VhBibo2DkTVhdspjmxUgxDGaLQx7qb7xY="   crossorigin="anonymous"></script>
+
+<script src="js/lodash.js"></script>
+<script src="js/game.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,106 @@
+/* THIS IS THE GAME TABLE CSS */
+
+div {
+  border-color: transparent;
+}
+
+#game_table {
+  background-image: url('http://i.stack.imgur.com/q02th.jpg');
+  background-size: cover;
+  display: none;
+  text-align: center;
+  min-width: 1000px;
+  height: 1050px;
+  color: white;
+  border-top-color: white;
+  border-bottom-color: white;
+}
+
+#heading-game_block {
+  width: 100%;
+  text-align: center;
+    background-image: url('http://www.imgbase.info/images/safe-wallpapers/photography/miscellaneous/31419_miscellaneous_poker_chips.jpg');
+  background-attachment: fixed;
+
+}
+
+.player {
+  box-sizing: border-box;
+  height: 280px;
+  width: 280px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.player h3 {
+  font-size: 36px;
+  margin-bottom: 0;
+  margin-top: -20px;
+}
+
+.vertical-player {
+  display: inline-block;
+}
+
+.player .pot h3 {
+  margin: 10px;
+}
+
+.dealer .pot,
+.dealer .card {
+  position: absolute;
+}
+
+.dealer {
+  width: 400px;
+  position: relative;
+  margin: 0px;
+}
+
+#upcard1,
+#upcard2,
+#upcard3,
+#turn,
+#river {
+  bottom: 10px;
+}
+
+#upcard1 { left: 20px; }
+#upcard2 { left: 90px; }
+#upcard3 { left: 160px; }
+#turn, #deck { left: 230px; }
+#river, #burn { left: 300px; }
+
+#deck,
+#burn,
+#pot {
+  top: 30px;
+}
+
+#pot {
+  left: 80px;
+  font-size: 30px;
+}
+
+#player {
+  height: 320px;
+}
+
+.points {
+  font-size: 24;
+  font-weight: bold;
+}
+
+.avatar {
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+  background-color: gray;
+  display: block;
+  margin: 20px auto 0;
+}
+
+.actions,
+.actions .input_field {
+  font-size: 15px;
+}

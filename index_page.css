@@ -1,0 +1,307 @@
+/* THIS IS THE FIRST PAGE CSS */
+
+#main_header1 {
+  background-image: url('http://www.desktopwallpaperhd.net/wallpapers/17/7/wallpaper-poker-fire-179767.jpg');
+  background-position: 0% 60%;
+  background-size: cover;
+  height: 500px;
+}
+
+#main_heading1-1 {
+  text-align: center;
+  color: red;
+  font-size: 80px;
+  position: absolute;
+  margin-top: 175px;
+  margin-left: 75px;
+  background-color: rgba(0, 0, 0, 0);
+}
+
+#main_heading1-2 {
+  text-align: center;
+  color: red;
+  font-size: 80px;
+  position: absolute;
+  margin-top: 275px;
+  margin-left: 875px;
+  background-color: rgba(0, 0, 0, 0);
+}
+
+#links1 {
+  background-image: url('http://bgfons.com/upload/rainbow_texture679.jpg');
+  background-size: 1280px 900px;
+  background-position: 0% 85%;
+  text-align: center;
+  height: 110px;
+  color: white;
+  border-top-color: white;
+  border-bottom-color: white;
+}
+
+#link2game {
+  color: white;
+  font-size: 30px;
+  position: absolute;
+  margin-top: 30px;
+  margin-left: -300px;
+  border: white double;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+#link2history_button {
+  color: white;
+  font-size: 30px;
+  position: absolute;
+  margin-top: 30px;
+  margin-left: 90px;
+  border: white double;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+#history {
+  background-image: url('http://eskipaper.com/images/awesome-black-wallpaper-1.jpg');
+  font-size: 20px;
+  color: red;
+  display: none;
+}
+
+#history_heading {
+  text-align: center;
+}
+
+#history_paragraph1 {
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+#history_paragraph2 {
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+#history_paragraph3 {
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+#history_paragraph4 {
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+#history_paragraph5 {
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+#history_paragraph6 {
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+#the_objective {
+  background-image: url('file:///Users/maxcherkasskikh/Documents/PHOTOS/RANDOM/droplet%20background_Fotor.jpg');
+  background-size: 1300px 900px;
+  color: white;
+  font-size: 18px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+#objective_heading {
+  text-align: center;
+}
+
+#objective_paragraph1 {
+  padding-left: 100px;
+  padding-right: 100px;
+  text-align: center;
+}
+
+#hand_list {
+  padding-left: 575px;
+}
+
+#objective_paragraph2 {
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+#rules {
+  color: orange;
+  height: 110;
+}
+
+#rules_header {
+  background-image: url('http://bgfons.com/upload/rainbow_texture679.jpg');
+  background-size: 1280px 900px;
+  background-position: 0% 85%;
+  font-size: 25px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border-top-color: white;
+  border-bottom-color: white;
+}
+
+#rules_heading {
+  text-align: center;
+}
+
+#general {
+  font-size: 20px;
+  height: 400px;
+  padding-left: 150px;
+  padding-right: 150px;
+  background-image: url('http://img11.deviantart.net/62e8/i/2006/245/7/5/hong_kong_skyline_by_lazykun.jpg');
+  background-size: 1300px 800px;
+  background-position: 0% 50%;
+  background-attachment: fixed;
+  -webkit-transition: all 0.2s ease;
+  -moz-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+
+$('.background-demo').parally();
+
+}
+
+#rules_paragraph1 {
+  margin-top: 70px;
+}
+
+#overview {
+  font-size: 20px;
+  height: 400px;
+  padding-left: 150px;
+  padding-right: 150px;
+  background-image: url('http://randomwallpapers.net/golden-gate-bridge-white-black-photo-fog-2560x1440-wallpaper110310.jpg');
+  background-size: 1280px 800px;
+  background-position: 0% 50%;
+  position: relative;
+  background-attachment: fixed;
+  -webkit-transition: all 0.2s ease;
+  -moz-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+
+#rules_paragraph2 {
+  margin-top: 100px;
+}
+
+#betting1 {
+  font-size: 20px;
+  height: 400px;
+  padding-left: 150px;
+  padding-right: 150px;
+  background-image: url('file:///Users/maxcherkasskikh/Documents/PHOTOS/RANDOM/Rio_Fotor.jpg');
+  background-size: 1300px 800px;
+  background-position: 0% 40%;
+  position: relative;
+  background-attachment: fixed;
+  -webkit-transition: all 0.2s ease;
+  -moz-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+
+#rules_paragraph3 {
+  margin-top: 130px;
+}
+
+#betting2 {
+  font-size: 20px;
+  height: 400px;
+  padding-left: 150px;
+  padding-right: 150px;
+  background-image: url('http://savanaksa.com/wp-content/uploads/2015/10/dubai_pearl_short.jpg?id=344');
+  background-size: 1400px 800px;
+  position: relative;
+  background-attachment: fixed;
+  -webkit-transition: all 0.2s ease;
+  -moz-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+
+#rules_paragraph4 {
+  margin-top: 100px;
+}
+
+#betting3 {
+  font-size: 20px;
+  height: 400px;
+  padding-left: 150px;
+  padding-right: 150px;
+  background-image: url('http://www.mpkelley.com/s/downtown-haze.jpg');
+  background-size: 2000px 1000px;
+  background-position: 35% 75%;
+  position: relative;
+  background-attachment: fixed;
+  -webkit-transition: all 0.2s ease;
+  -moz-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+
+#rules_paragraph5 {
+  margin-top: 110px;
+}
+
+#strategy {
+  font-size: 20px;
+  height: 400px;
+  padding-left: 150px;
+  padding-right: 150px;
+  background-image: url('http://p1.pichost.me/i/30/1532000.jpg');
+  background-size: 1280px 800px;
+  background-position: 0% 40%;
+  position: relative;
+  background-attachment: fixed;
+  -webkit-transition: all 0.2s ease;
+  -moz-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+
+#rules_paragraph6 {
+  margin-top: 150px;
+}
+
+#links3 {
+  background-image: url('http://bgfons.com/upload/rainbow_texture679.jpg'); background-size: 1450px 900px; background-position: 0% 60%;
+  text-align: center;
+  height: 110px;
+  color: white;
+  border-top-color: white;
+  border-bottom-color: white;
+}
+
+#link2DAgame {
+  align-content: center;
+  font-size: 30px;
+  position: absolute;
+  margin-top: 30px;
+  margin-left: -110px;
+  border: white double;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+#contact1 {
+  background-image: url('http://webneel.com/wallpaper/sites/default/files/images/04-2013/creative-rain_0.jpg');
+  background-size: 1280px 800px;
+  background-position: 0% 40%;
+  height: 300px;
+  text-align: center;
+}
+
+#contactus1 {
+  text-align: center;
+  color: white;
+}
+
+#contact_paragraph1 {
+  color: white;
+  text-align: center;
+  font-size: 22px;
+  padding-top: 50px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
